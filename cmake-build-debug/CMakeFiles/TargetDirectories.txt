@@ -1,0 +1,3 @@
+/Users/yifeili/CLionProjects/yifei-lab1/cmake-build-debug/CMakeFiles/yifei_lab1.dir
+/Users/yifeili/CLionProjects/yifei-lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yifeili/CLionProjects/yifei-lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
