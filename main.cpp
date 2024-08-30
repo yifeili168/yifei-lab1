@@ -9,6 +9,7 @@
 using namespace std;
 
 int main() {
-    printf("Hello World!");
+    printf("Hello World!\n");
+    printf("This is Tony's test message for Lab 1.");
     return 0;
 }
